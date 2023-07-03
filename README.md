@@ -1,3 +1,3 @@
 # LABYRINTH-GAME
 
-![Screenshot](labyrinth.png)
+![Screenshot](logo.png)
